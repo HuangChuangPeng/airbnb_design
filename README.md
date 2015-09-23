@@ -1,3 +1,0 @@
-# airbnb_design
-airbnb_design
-testtttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
